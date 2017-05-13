@@ -1,2 +1,3 @@
 # lb-blur-admin-starter
-Loopback with BlurAdmin
+
+[LoopBack](http://loopback.io) + [AngularJs](https://angularjs.org) + [Blur-Admin](http://akveo.github.io/blur-admin/)
